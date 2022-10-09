@@ -1,16 +1,27 @@
-### Hi there 👋
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Suman-Dhungana"/></p>
 
-<!--
-**Suman-Dhungana/Suman-Dhungana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+- Currently Learning Python.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### These Are My Stats:
+
+![Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Suman-Dhungana&show_icons=true)
+
+### And My Most Used Languages:
+
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Suman-Dhungana)
+
+
+## You Can Reach Out To Me On Any Of This Platforms:
+
+- [Linkedin][0]
+- [Twitter][1]
+- [Instagram][2]
+- [Facebook][3]
+
+<!-- links to social media accounts -->
+[0]: https://linkedin.com/in/suman-dhungana
+[1]: https://twitter.com/sumandhng
+[2]: https://www.instagram.com/_suman.dhungana_/
+[3]: https://www.facebook.com/SumanDhng
